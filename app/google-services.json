@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762836851871",
+    "firebase_url": "https://soundplayerkotlin.firebaseio.com",
+    "project_id": "soundplayerkotlin",
+    "storage_bucket": "soundplayerkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762836851871:android:5bf7f9305ee148c2",
+        "android_client_info": {
+          "package_name": "com.example.future.soundplayerkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762836851871-295nlbacngearninm1jp1imebfats9fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.future.soundplayerkotlin",
+            "certificate_hash": "c1c36c563b43f950c1f2438794ba9e9ebfdc385d"
+          }
+        },
+        {
+          "client_id": "762836851871-ju6p88jefl6i1li3m33e3oma7oidg53n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIzI7xJ_anCVDf_fnWCbRZZmp4fPa2Ng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762836851871-ju6p88jefl6i1li3m33e3oma7oidg53n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
